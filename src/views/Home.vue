@@ -14,7 +14,7 @@
 
         <h1>V.O.C</h1>
 
-        <a href="https://discord.gg/vMVH9sx767" target="_blank" class="button">DISCORD</a>
+        <a href="https://discord.gg/vMVH9sx767" target="_blank" class="button">JOIN DISCORD</a>
       </div>
     </div>
   </div>
